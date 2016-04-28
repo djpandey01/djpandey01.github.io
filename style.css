@@ -143,7 +143,7 @@ img{
   color: #fff;
   font-size: 25px;
   font-weight: bold;
-  margin-top: 15px; 
+  margin-top: 0px; 
 }
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
   background-color: transparent;
